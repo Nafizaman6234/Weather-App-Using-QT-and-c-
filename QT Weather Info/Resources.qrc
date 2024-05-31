@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/Resources"/>
+    <qresource prefix="/Resource"/>
+    <qresource prefix="/Image">
+        <file>Resource/weather page.jpg</file>
+        <file>Resource/welcome.jpg</file>
+    </qresource>
+</RCC>
